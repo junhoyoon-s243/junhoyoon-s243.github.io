@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
- Assistant Professor of Management Science and Systems <br> School of Management, <a style="font-weight:bold" href='#'>University at Buffalo</a>
+ Assistant Professor <br> Department of Management Science and Systems <br> School of Management, <a style="font-weight:bold" href='#'>University at Buffalo</a>
 
 
 
