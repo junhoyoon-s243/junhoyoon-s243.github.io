@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a style="font-weight:bold" href='#'>University at Buffalo</a>. School of Management. <a href='mailto:jyoon11@uiowa.edu'>email</a>
-
+#subtitle:  <a style="font-weight:bold" href='#'>University at Buffalo</a>. School of Management. <a href='mailto:jyoon11@uiowa.edu'>email</a> 
 
 profile:
   align: right
@@ -21,11 +20,15 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-I am an incoming Assistant Professor of Management Science and Systems at the School of Management, University at Buffalo. My research leverages machine learning, network science, and econometrics to derive business intelligence for firms and policymakers. I study questions about technology innovation, interfirm collaboration, human resources, and healthcare. I earned my Ph.D. in Business Analytics from the Tippie College of Business at the University of Iowa, under the guidance of Dr. [Gautam Pant](https://sites.google.com/view/gautam-pant).
+ Assistant Professor of Management Science and Systems <br> School of Management, <a style="font-weight:bold" href='#'>University at Buffalo</a>
 
 
 
-<br><br>
+My research leverages machine learning, network science, and econometrics to derive business intelligence for firms and policymakers. I study questions about technology innovation, interfirm collaboration, human resources, and healthcare. I earned my Ph.D. in Business Analytics from the Tippie College of Business at the University of Iowa, under the guidance of Dr. [Gautam Pant](https://sites.google.com/view/gautam-pant).
+
+
+
+<br>
 
 ## <span style="font-size: 24px;"> Select Awards </span>
 
@@ -33,7 +36,7 @@ I am an incoming Assistant Professor of Management Science and Systems at the Sc
 - 2nd place, University of Iowa Soccer World Cup 2022
 - Runner-up ($4,000),  Expedia & Enter Data Science Competition 2020
 
-<br>
+
 
 
 <!--[CV](/assets/pdf/junhoyoon_cv.pdf)-->

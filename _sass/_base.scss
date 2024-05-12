@@ -22,7 +22,7 @@ strong {
 
 // manual font size change, default = 16 px
 p, li {
-    font-size: 17px;
+    font-size: 15px;
  }
 
 hr {
@@ -64,7 +64,7 @@ table.table a {
 figure,
 img {
   max-width: 90vw;
-  width: 70%;
+  width: 52.5%; // default 70 // junho
 }
 
 blockquote {
