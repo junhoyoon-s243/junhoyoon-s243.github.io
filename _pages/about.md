@@ -24,7 +24,7 @@ social: false # includes social icons at the bottom of the page
 
 
 
-My research leverages machine learning, network science, and econometrics to derive business intelligence for firms and policymakers. I study questions about technology innovation, interfirm collaboration, human resources, and healthcare. I earned my Ph.D. in Business Administration from the Tippie College of Business at the University of Iowa, under the guidance of Dr. [Gautam Pant](https://sites.google.com/view/gautam-pant).
+My research leverages machine learning, network science, and econometrics to derive business intelligence for firms and policymakers. I study questions about technology innovation, interfirm collaboration, and healthcare. I earned my Ph.D. in Business Administration from the Tippie College of Business at the University of Iowa, under the guidance of Dr. [Gautam Pant](https://sites.google.com/view/gautam-pant).
 
 
 
