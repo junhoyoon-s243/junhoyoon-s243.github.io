@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
- Assistant Professor of Management Science and Systems <br> School of Management, <a style="font-weight:bold" href='https://management.buffalo.edu/'>University at Buffalo</a>  [<a href='mailto:jyoon11@uiowa.edu'>email</a>] 
+ Assistant Professor of Management Science and Systems <br> School of Management, <a style="font-weight:bold" href='https://management.buffalo.edu/'>University at Buffalo</a>  [<a href='mailto:jyoon11@buffalo.edu'>email</a>] 
 
 
 
