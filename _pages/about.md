@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-#subtitle:  <a style="font-weight:bold" href='#'>University at Buffalo</a>. School of Management. <a href='mailto:jyoon11@uiowa.edu'>email</a> 
+#subtitle:  <a style="font-weight:bold" href='#'>University at Buffalo</a>. School of Management. <a href='mailto:jyoon11@uiowa.edu'>email</a>
 
 profile:
   align: right
-  image: junhoyoon.png #prof_pic.jpg
+  image: junhoyoon_ub_h.jpg #junhoyoon.png
   image_circular: false # crops the image to make it circular
   more_info: # >
     # <p>160 Jacobs Mgmt. Center</p>
@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
- Assistant Professor of Management Science and Systems <br> School of Management, <a style="font-weight:bold" href='https://management.buffalo.edu/'>University at Buffalo</a>  [<a href='mailto:jyoon11@buffalo.edu'>email</a>] 
+ Assistant Professor of Management Science and Systems <br> School of Management, <a style="font-weight:bold" href='https://management.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/junho-yoon.html'>University at Buffalo</a>  [<a href='mailto:jyoon11@buffalo.edu'>email</a>] 
 
 
 
