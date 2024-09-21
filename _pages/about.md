@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: junhoyoon_ub_h_v2.jpg #junhoyoon.png
+  image: junhoyoon_ub_h_v2.png #junhoyoon.png
   image_circular: false # crops the image to make it circular
   more_info: # >
     # <p>160 Jacobs Mgmt. Center</p>
