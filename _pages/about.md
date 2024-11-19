@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
- Assistant Professor of Management Science and Systems <br> School of Management, <a style="font-weight:bold" href='https://management.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/junho-yoon.html'>University at Buffalo</a>  [<a href='mailto:jyoon11@buffalo.edu'>email</a>]
+ Assistant Professor of Management Science and Systems <br> School of Management, <a style="font-weight:bold" href='https://management.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/junho-yoon.html'>State University of New York at Buffalo</a>  [<a href='mailto:jyoon11@buffalo.edu'>email</a>]
 
 
 
